@@ -150,9 +150,3 @@ MCA Student at HBTU Kanpur
 GitHub: [shishirmishra9918-cmd](https://github.com/shishirmishra9918-cmd)
 
 ---
-
-* README ka **short version**
-* ya **badges + screenshots section**
-* ya **deployment instructions**
-
-bhi add kar deta hoon 🔥
