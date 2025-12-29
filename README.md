@@ -1,3 +1,4 @@
+Project Link -- https://marsgenix.lovable.app/
 <img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/d261f600-7b6a-477c-bd70-8178665084e6" />
 
 # 🚀 MarsGenix – Hyperlocal Human-Help Platform (Core System)
